@@ -1,6 +1,4 @@
 # telzir
-Sistema feito em react.js para calcular gastos de ligações de telefone da empresa Telzir.
-
 Este projeto foi inicializado com o [Create React App] (https://github.com/facebook/create-react-app).
 
 # Requisitos 
